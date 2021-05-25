@@ -208,3 +208,14 @@ a:hover { color: #1696f9; }
     margin-top: 60px;
   }
 }
+
+.lagoon-countdown-timer {
+  margin-top: 0;
+  margin-bottom: 40px;
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.navbar-toggler {
+  display: none;
+}
